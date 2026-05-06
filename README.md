@@ -1,6 +1,12 @@
 
 ![banner](./banner.png)
 
+🗿 Meu nome é ***Guilherme Luiz Negro***
+💻 Estudo na Unifil, cursando _Ciência da Computação_
+⁉ Tenho 18 anos
+🧏‍♂️ Gosto de jogos, filmes e esportes
+
+
 <!--
 **GuiLuizNegro/GuiLuizNegro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
