@@ -1,10 +1,10 @@
 
 ![banner](./banner.png)
 
-🗿 Meu nome é ***Guilherme Luiz Negro***  
-💻 Estudo na Unifil, cursando _Ciência da Computação_  
-⁉ Tenho 18 anos  
-🧏‍♂️ Gosto de jogos, filmes e esportes  
+### 🗿 Meu nome é ***Guilherme Luiz Negro***  
+### 💻 Estudo na Unifil, cursando ***Ciência da Computação***
+### ⁉ Tenho 18 anos  
+### 🧏‍♂️ Gosto de jogos, filmes e esportes  
 
 
 <!--
