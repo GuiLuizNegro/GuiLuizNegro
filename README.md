@@ -1,6 +1,6 @@
 
 ![banner](./bannerAzul.png)
-<a href="https://www.linkedin.com/in/guilhermenegro/"><img src="Linkedin.png" height="90"></a> <a href="https://www.instagram.com/guiluiznegro/"><img src="Instagram.png" height="90"></a> <img src="CsUnifil.png" height="90">
+<a href="https://www.linkedin.com/in/guilhermenegro/"><img src="Linkedin.png" height="80"></a> <a href="https://www.instagram.com/guiluiznegro/"><img src="Instagram.png" height="80"></a> <img src="CsUnifil.png" height="80">
 
 🗿 Meu nome é ***Guilherme Luiz Negro***  
 💻 Estudo na Unifil, cursando ***Ciência da Computação***  
