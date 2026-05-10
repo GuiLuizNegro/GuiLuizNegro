@@ -1,5 +1,5 @@
 
-![banner](./bannerSurfistaPrateado.png)
+![banner](./banner.png)
 
 🗿 Meu nome é ***Guilherme Luiz Negro***  
 💻 Estudo na Unifil, cursando ***Ciência da Computação***  
