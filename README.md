@@ -2,10 +2,10 @@
 ![banner](./bannerAzul.png)
 <a href="https://www.linkedin.com/in/guilhermenegro/"><img src="Linkedin.png" height="75"></a> <a href="https://www.instagram.com/guiluiznegro/"><img src="Instagram.png" height="75"></a> <img src="CsUnifil.png" height="75">
 
-🗿 Meu nome é ***Guilherme Luiz Negro***  
-💻 Estudo na Unifil, cursando ***Ciência da Computação***  
-⁉ Tenho 18 anos  
-🧏‍♂️ Gosto de jogos, filmes e esportes  
+### 🗿 Meu nome é ***Guilherme Luiz Negro***  
+### 💻 Estudo na Unifil, cursando ***Ciência da Computação***  
+### ⁉ Tenho 18 anos  
+###🧏‍♂️ Gosto de jogos, filmes e esportes  
 
 
 <!--
