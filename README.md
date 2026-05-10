@@ -1,4 +1,6 @@
 
+![banner](./bannerAzul.png)
+
 🗿 Meu nome é ***Guilherme Luiz Negro***  
 💻 Estudo na Unifil, cursando ***Ciência da Computação***  
 ⁉ Tenho 18 anos  
