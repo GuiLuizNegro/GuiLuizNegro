@@ -1,6 +1,6 @@
 
 ![banner](./bannerAzul.png)
-[![badge_linkedin](./Linkedin.png)](www.linkedin.com/in/guilhermenegro) [![badge_insta](./Instagram.png)](https://www.instagram.com/guiluiznegro/) ![badge_unifil](./CsUnifil.png)
+[![badge_linkedin](./Linkedin.png)](https://www.linkedin.com/in/guilhermenegro/) [![badge_insta](./Instagram.png)](https://www.instagram.com/guiluiznegro/) ![badge_unifil](./CsUnifil.png)
 
 🗿 Meu nome é ***Guilherme Luiz Negro***  
 💻 Estudo na Unifil, cursando ***Ciência da Computação***  
