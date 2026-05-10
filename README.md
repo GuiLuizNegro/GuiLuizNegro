@@ -1,12 +1,12 @@
 
 ![banner](./bannerAzul.png)
 <a href="https://www.linkedin.com/in/guilhermenegro/"><img src="Linkedin.png" height="75"></a> <a href="https://www.instagram.com/guiluiznegro/"><img src="Instagram.png" height="75"></a> <img src="CsUnifil.png" height="75">
-<h1 align="center">
+<h3 align="center">
 Meu nome é Guilherme Luiz Negro <br>
 Estudo na Unifil, cursando Ciência da Computação <br>
 Tenho 18 anos <br>
 Gosto de jogos, filmes e esportes <br> 
-</h1>
+</h3>
 
 <!--
 **GuiLuizNegro/GuiLuizNegro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
