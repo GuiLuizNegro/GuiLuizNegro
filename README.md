@@ -1,5 +1,7 @@
 
 ![banner](./bannerAzul.png)
+
+<img src="Linkedin.png" height="20">
 [![badge_linkedin](./Linkedin.png)](https://www.linkedin.com/in/guilhermenegro/) [![badge_insta](./Instagram.png)](https://www.instagram.com/guiluiznegro/) ![badge_unifil](./CsUnifil.png)
 
 🗿 Meu nome é ***Guilherme Luiz Negro***  
